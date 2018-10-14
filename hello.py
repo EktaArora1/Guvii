@@ -1,3 +1,7 @@
 n=int(input())
-for i in range(n):
-	print("Hello")
+int i
+if(n>0):
+	for i in range(n):
+		print("Hello")
+else:
+	print("")
