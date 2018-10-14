@@ -1,7 +1,7 @@
 n=int(input())
 s=0
 if(n>0):
-  s=n*(n+1)/2
+  s=n*(n+1)//2
   print(s)
 elif(n==0):
   print('0')
