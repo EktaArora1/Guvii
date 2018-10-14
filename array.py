@@ -1,5 +1,4 @@
-n=int(input())
-k=int(input())
+n,k=map(int,input().split())
 arr=[]
 for i in range(n):
   j=int(input())
