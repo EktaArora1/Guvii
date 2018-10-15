@@ -1,3 +1,3 @@
 n=int(input())
-p=int(input())
-print(pow(n,p))
+z=int(input())
+print(pow(n,z))
