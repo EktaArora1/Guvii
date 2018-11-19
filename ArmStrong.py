@@ -15,6 +15,6 @@ for k in c:
 print(s)
 print(a)
 if(s==a):
-    print('YES')
+    print('yes')
 else:
-    print('NO')
+    print('no')
