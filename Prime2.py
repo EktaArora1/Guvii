@@ -5,7 +5,7 @@ def isPrime(j):
     return j
 a=int(input())
 b=int(input())
-for j in range(a,b):
+for j in range(a+1,b):
   c=isPrime(j)
   if(c):
     print(c)
