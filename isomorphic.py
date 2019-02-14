@@ -1,5 +1,5 @@
-n=input()
-m=input()
+n,m=input().split(" ")
+
 if(len(n)!=len(m)):
     print("no")
 else:
