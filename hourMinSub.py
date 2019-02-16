@@ -1,0 +1,5 @@
+hr1,mn1=list(map(int,input().split()))
+hr2,mn2=list(map(int,input().split()))
+h=abs(hr1-hr2)
+m=abs(mn1-mn2)
+print(h,"",m)
