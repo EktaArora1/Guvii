@@ -1,3 +1,4 @@
-arr=input()
-for i in range(1,len(arr),2):
-    print(arr[i],end=' ')
+arr=int(input())
+for i in str(arr):
+    if int(i)%2==1:
+        print(i,end=' ' )
