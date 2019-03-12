@@ -1,9 +1,3 @@
-
-Raw
-Blame
-History
-   
-
 def notneighm(l,s,e,ss):
 
 	sum=0
